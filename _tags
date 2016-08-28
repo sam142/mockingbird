@@ -1,0 +1,2 @@
+true: package(tyxml), package(opal)
+true: strict_sequence, safe_string, short_paths

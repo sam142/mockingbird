@@ -1,0 +1,5 @@
+PKG opal tyxml
+S src
+B _build/**
+
+FLG -strict-sequence -safe-string

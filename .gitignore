@@ -1,0 +1,4 @@
+*.svg
+_build/*
+*.byte
+*.native
